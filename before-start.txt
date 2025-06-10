@@ -1,0 +1,13 @@
+Potrebno je instalirati sledece:
+
+pip install pandas 
+pip install numpy 
+pip install matplotlib 
+pip install seaborn
+pip install statsmodels
+pip install scikit-learn
+
+
+Ili u jednoj liniji:
+
+pip install pandas numpy matplotlib seaborn statsmodels scikit-learn
